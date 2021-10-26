@@ -1,0 +1,5 @@
+# ignore output file
+output.jpg
+
+# ignore virtual environment directory
+venv/
