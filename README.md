@@ -1,5 +1,7 @@
 # Multimedia_Systems_Project
 This is my final project of Multimedia Systems course in university.
+In this project the dithering technique apply to your input image.
+
 
 ## Requirements
 * install numpy:
