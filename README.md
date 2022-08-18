@@ -1,20 +1,20 @@
-# Multimedia_Systems_Project
-This is my final project of Multimedia Systems course in university.
-In this project the dithering technique apply to your input image.
+# Dither me!
+In this project, the dithering technique applies to your input image. It is my final project in the Multimedia Systems course at my university.
+
 
 
 ## Requirements
-* install numpy:
+* NumPy:
     ```
     pip install numpy
     ```
-* install pillow library:
+* Pillow!:
     ```
     pip install pillow
     ```
 
-## How it works
-* Run main.py
-* Enter your input image file address
-* Enter size of dither matrix (must be power of two)
+## Try it
+* Run **`main.py`**
+* Enter the address of the desired image.
+* Enter the size of dither matrix (must be power of two)
 * Open the output file generated in the main directory of the project
